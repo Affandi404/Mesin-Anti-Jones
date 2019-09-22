@@ -25,7 +25,7 @@ double LDG()
 	printf("2. Penghitung nilai Kapasitor pengganti \n");
 	printf("3. Menghitung Standar Deviasi  \n");
 	printf("4. Mesin Sleksi Asisten lab \n\n");
-	printf("Atau tekan 0 untuk ekmbali ke menu awal\n");
+	printf("Atau tekan 0 untuk kembali ke menu awal\n");
 	
 	printf("masukan pilihan anda = "); scanf("%d",&pilihan);
 	printf("\n");
